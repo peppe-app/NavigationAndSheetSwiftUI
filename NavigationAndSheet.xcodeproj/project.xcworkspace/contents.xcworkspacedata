@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/peppe/Desktop/TestProject/NavigationAndSheet.xcodeproj">
    </FileRef>
 </Workspace>
